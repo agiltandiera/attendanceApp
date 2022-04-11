@@ -1,5 +1,5 @@
 # attendanceApp
-Attendance App is app for detecting your current location; near the location or not.
+Attendance App is app for detecting your current location; near the destination location or not.
 When user is < 80m from the location, the app will launch the dialog to input user's name. Instead, when user > 80m, the app will show "Out of Range"
 
 
