@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221781761892",
+    "project_id": "attendance-app-edd6b",
+    "storage_bucket": "attendance-app-edd6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221781761892:android:2bfa293aad0fd06013e471",
+        "android_client_info": {
+          "package_name": "com.tandiera.project.attendanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221781761892-3hu1pnajj5ngiucn651gobh1q57ce4pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX4-5dhfXltPf7U96XaTYX4w_vBERG3bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221781761892-3hu1pnajj5ngiucn651gobh1q57ce4pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
